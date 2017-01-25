@@ -42,7 +42,7 @@ _Period_ | _Institution_
 Russian|Fluent
 **English**|**Good (TOEIC – 890/990)**
 French|Good (B2)
-
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
 * Languages: *C# 6.0*
 * Technics: *.NET Framework 4.6, Object Oriented Programming, LINQ, GitHub*
