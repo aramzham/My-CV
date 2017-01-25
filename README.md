@@ -44,11 +44,11 @@ Russian|Fluent
 French|Good (B2)
 
 ## Technical Skills
-Languages: *C# 6.0*
-Technics: *.NET Framework 4.6, Object Oriented Programming, LINQ, GitHub*
-Systems: *Windows (Vista, 7, 8)*
-Database: *Entity Framework*
-Programs: *Visual Studio 2015, MS Office*
+* Languages: *C# 6.0*
+* Technics: *.NET Framework 4.6, Object Oriented Programming, LINQ, GitHub*
+* Systems: *Windows (Vista, 7, 8)*
+* Database: *Entity Framework*
+* Programs: *Visual Studio 2015, MS Office*
 
 ## Objective : Developer
   Over past several years my career has evolved from Call Center operator to POS-Terminal Service specialist. During that time I got acquainted with IT technologies and with Microsoft Armenia. I got excited with programming during my first training "Fundamentals of Programming". At present, I'm actively persuing a career as a developer, so I've finished C# trainings at MIC Armenia and grabbed my chance on BetConstruct internship.
