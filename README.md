@@ -2,8 +2,9 @@
 
 ### Personal information
 
-**First name** | **Aram**
+Personal | information
 -----------|------------
+First name | Aram
 Last name| Zhamkochyan
 E-mail| aramzham@hotmail.com
 Phone | +374(41)325253
