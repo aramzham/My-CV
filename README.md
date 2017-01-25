@@ -34,3 +34,11 @@ _Period_ | _Institution_
 > Microsoft Innovation Center Armenia - "C# Level 1"
 
 > Microsoft Innovation Center Armenia - "Fundamentals of Programming"
+
+## Languages
+*Language*|*Level*
+----------|-------
+Armenian|Mother language
+Russian|Fluent
+English|Good (TOEIC – 890/990)
+French|Good (B2)
