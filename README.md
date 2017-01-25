@@ -15,7 +15,7 @@ LinkedIn | [Aram Zhamkochyan] (https://www.linkedin.com/in/aram-zhamkochyan-b266
 > 07.2012 – 12.2012  ->    **Processing Center specialist** at «Unibank» CJSC
 
 > 05.2009 – 05.2010  ->    **Call Center operator** at «Armenian Card» CJSC 
-----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Education
 
 _Period_ | _Institution_
@@ -26,7 +26,7 @@ _Period_ | _Institution_
 2006 – 2010|Yerevan State University, Faculty of Economy – Bachelor’s degree, Theory of Economy
 **2001 – 2006**|**Anania Shirakatsi Lycee**
 1996 – 2001|Levon Shant N4 elementary school
---------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Trainings
 > Microsoft Innovation Center Armenia - "C# Level 2"
@@ -34,7 +34,7 @@ _Period_ | _Institution_
 > Microsoft Innovation Center Armenia - "C# Level 1"
 
 > Microsoft Innovation Center Armenia - "Fundamentals of Programming"
----------------------------------------------------------------------------------------
+
 ## Languages
 *Language*|*Level*
 ----------|-------
@@ -49,7 +49,7 @@ French|Good (B2)
 * Systems: *Windows (Vista, 7, 8)*
 * Database: *Entity Framework*
 * Programs: *Visual Studio 2015, MS Office*
-----------------
+
 ## Objective : Developer
    Over past several years my career has evolved from Call Center operator to POS-Terminal Service specialist. During that time I got acquainted with IT technologies and with Microsoft Armenia. I got excited with programming during my first training "Fundamentals of Programming". At present, I'm actively persuing a career as a developer, so I've finished C# trainings at MIC Armenia and grabbed my chance on BetConstruct internship.
    As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful for my future work.
