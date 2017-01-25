@@ -20,9 +20,9 @@ LinkedIn | [Aram Zhamkochyan] (https://www.linkedin.com/in/aram-zhamkochyan-b266
 
 _Period_ | _Institution_
 ---------|---------------
-**2015 – 2016|University of Poitiers (France) – Master 1, Finance de marché et gestion de patrimoine**
-_2012 – 2014|Yerevan State University, Faculty of Economy – Master’s degree, International Economic Relations_
-**2010 – 2012|Military Service**
-_2006 – 2010|Yerevan State University, Faculty of Economy – Bachelor’s degree, Theory of Economy_
-**2001 – 2006|Anania Shirakatsi Lycee**
-_1996 – 2001|Levon Shant N4 elementary school_
+**2015 – 2016**|**University of Poitiers (France) – Master 1, Finance de marché et gestion de patrimoine**
+_2012 – 2014_|_Yerevan State University, Faculty of Economy – Master’s degree, International Economic Relations_
+**2010 – 2012**|**Military Service**
+_2006 – 2010_|_Yerevan State University, Faculty of Economy – Bachelor’s degree, Theory of Economy_
+**2001 – 2006**|**Anania Shirakatsi Lycee**
+_1996 – 2001_|_Levon Shant N4 elementary school_
