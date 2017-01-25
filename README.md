@@ -51,5 +51,5 @@ French|Good (B2)
 * Programs: *Visual Studio 2015, MS Office*
 
 ## Objective : Developer
-  Over past several years my career has evolved from Call Center operator to POS-Terminal Service specialist. During that time I got acquainted with IT technologies and with Microsoft Armenia. I got excited with programming during my first training "Fundamentals of Programming". At present, I'm actively persuing a career as a developer, so I've finished C# trainings at MIC Armenia and grabbed my chance on BetConstruct internship.
-  As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful for my future work.
+      Over past several years my career has evolved from Call Center operator to POS-Terminal Service specialist. During that time I got acquainted with IT technologies and with Microsoft Armenia. I got excited with programming during my first training "Fundamentals of Programming". At present, I'm actively persuing a career as a developer, so I've finished C# trainings at MIC Armenia and grabbed my chance on BetConstruct internship.
+      As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful for my future work.
