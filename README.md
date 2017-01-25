@@ -2,7 +2,7 @@
 
 ### Personal information
 
-First name | Aram
+**First name** | **Aram**
 -----------|------------
 Last name| Zhamkochyan
 E-mail| aramzham@hotmail.com
