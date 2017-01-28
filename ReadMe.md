@@ -58,4 +58,4 @@ Russian|Fluent
 **English**|**Good (TOEIC – 890/990)**
 French|Good (B2)
 
-## [My résumé in PDF] (https://github.com/aramzham/Curriculum-Vitae/blob/master/CV%20in%20english.pdf)
+## [My résumé in PDF] (https://github.com/aramzham/Curriculum-Vitae/blob/master/Aram%20CV%20in%20english%20280117.pdf)
