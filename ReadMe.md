@@ -17,7 +17,7 @@ LinkedIn | [Aram Zhamkochyan] (https://www.linkedin.com/in/aram-zhamkochyan-b266
 GitHub | [My GitHub page] (https://github.com/aramzham)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
-* Languages: *C# 6.0*
+* Languages: *C# 6.0 (basic knowledge of Visual Basic)*
 * Libraries and Frameworks: *Object Oriented Programming, .NET Framework 4.6, Entity Framework, LINQ, Windows Forms*
 * Systems: *Windows 7 & 8*
 * VSC: *Git, GitHub*
