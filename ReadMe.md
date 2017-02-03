@@ -59,7 +59,7 @@ English|Good (TOEIC – 890/990)
 French|Good (B2)
 
 ## Programming knowledge literature source
-`msdn.microsoft.com`, `stackoverflow.com`, `Andrew Troelsen, Philip Japikse - C# 6.0 and the .NET 4.6 Framework (7th Edition) - 2015`, `Stephen Haunts - Cryptography in .Net (Syncfusion)`, `ITVDN.com`, `pluralsight.com`
+`msdn.microsoft.com`, `stackoverflow.com`, `Andrew Troelsen, Philip Japikse - C# 6.0 and the .NET 4.6 Framework (7th Edition) - 2015`, `Stephen Haunts - Cryptography in .Net (Syncfusion)`, `ITVDN.com`,  `pluralsight.com`
 
 ## [View my résumé] (https://github.com/aramzham/Curriculum-Vitae/blob/master/Aram%20CV%20in%20english%20280117.pdf)
 ## [View my enhacv résumé] (https://github.com/aramzham/Curriculum-Vitae/blob/master/AramZhamkochyanResume.pdf)
