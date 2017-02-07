@@ -11,8 +11,6 @@ _Personal_ | _Information_
 -----------|------------
 First name | Aram
 Last name| Zhamkochyan
-Phone | +374(41)325253
-Email | aramzham@hotmail.com
 LinkedIn | [Aram Zhamkochyan] (https://www.linkedin.com/in/aram-zhamkochyan-b26601137)
 GitHub | [My GitHub page] (https://github.com/aramzham)
 ----------------------------------------------------------------------------------------------------------------------------------------
