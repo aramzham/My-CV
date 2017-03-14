@@ -11,7 +11,7 @@ _Personal_ | _Information_
 -----------|------------
 First name | Aram
 Last name| Zhamkochyan
-LinkedIn |  [[https://www.linkedin.com/in/aram-zhamkochyan-b26601137|Aram Zhamkochyan]]
+LinkedIn | [Aram Zhamkochyan] (https://www.linkedin.com/in/aram-zhamkochyan-b26601137)
 GitHub | [My GitHub page] (https://github.com/aramzham)
 CodeFights | [My CodeFights profile] (https://codefights.com/profile/kacap1707)
 ----------------------------------------------------------------------------------------------------------------------------------------
