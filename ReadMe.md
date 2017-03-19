@@ -11,9 +11,9 @@ _Personal_ | _Information_
 -----------|------------
 First name | Aram
 Last name| Zhamkochyan
-LinkedIn | [Aram Zhamkochyan] (https://www.linkedin.com/in/aram-zhamkochyan-b26601137)
-GitHub | [My GitHub page] (https://github.com/aramzham)
-CodeFights | [My CodeFights profile] (https://codefights.com/profile/kacap1707)
+LinkedIn | [Aram Zhamkochyan](https://www.linkedin.com/in/aram-zhamkochyan-b26601137)
+GitHub | [My GitHub page](https://github.com/aramzham)
+CodeFights | [My CodeFights profile](https://codefights.com/profile/kacap1707)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
 * Languages: *C# 6.0 (basic knowledge of Visual Basic)*
