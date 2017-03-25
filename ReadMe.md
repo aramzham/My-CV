@@ -63,3 +63,6 @@ French|Good (B2)
 ## [View my résumé](https://github.com/aramzham/Curriculum-Vitae/blob/master/Aram%20CV%20in%20english%20280117.pdf)
 ## [View my enhacv résumé](https://github.com/aramzham/Curriculum-Vitae/blob/master/AramZhamkochyanResume.pdf)
 ## [Download my résumé in PDF](https://github.com/aramzham/Curriculum-Vitae/raw/master/Aram%20CV%20in%20english%20280117.pdf)
+<html>
+<a href = "https://github.com/aramzham/My-CV/blob/master/AramZhamkochyanResume.pdf">View my resume in PDF format</a>
+</html>
