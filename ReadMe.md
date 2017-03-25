@@ -17,7 +17,8 @@ CodeFights | [My CodeFights profile](https://codefights.com/profile/kacap1707)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
 * Languages: *C# 6.0 (basic knowledge of Visual Basic)*
-* Libraries and Frameworks: *Object Oriented Programming, .NET Framework 4.6, Entity Framework, LINQ, Windows Forms*
+* Libraries and Frameworks: *.NET Framework 4.6, Object Oriented Programming, LINQ, Windows Forms*
+* Databases: *T-SQL, Entity Framework*
 * Systems: *Windows 7 & 8*
 * VSC: *Git, GitHub*
 * IDE: *Visual Studio 2015*
