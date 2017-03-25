@@ -61,5 +61,7 @@ French|Good (B2)
 `msdn.microsoft.com`, `stackoverflow.com`, `Andrew Troelsen, Philip Japikse - C# 6.0 and the .NET 4.6 Framework (7th Edition) - 2015`, `Stephen Haunts - Cryptography in .Net (Syncfusion)`, `ITVDN.com`,  `pluralsight.com`
 
 ## [View my résumé](https://github.com/aramzham/Curriculum-Vitae/blob/master/Aram%20CV%20in%20english%20280117.pdf)
+<html>
 <h2> <a href = "https://github.com/aramzham/My-CV/blob/master/AramZhamkochyanResume.pdf">View my enhancv résumé</a></h2>
-## [Download my résumé in PDF](https://github.com/aramzham/Curriculum-Vitae/raw/master/Aram%20CV%20in%20english%20280117.pdf)
+<h2><a href = "https://github.com/aramzham/Curriculum-Vitae/raw/master/Aram%20CV%20in%20english%20280117.pdf">Download my résumé in PDF</a></h2>
+</html>
