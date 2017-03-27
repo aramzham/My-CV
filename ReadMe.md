@@ -6,20 +6,14 @@
 Over past several years my career has evolved from Call Center operator to POS-Terminal Service specialist. During that time I got acquainted with IT technologies and with `Microsoft Armenia`. I got excited with programming during my first training `"Fundamentals of Programming"`. At present, I'm actively persuing a career as a developer, so I've finished `C#` trainings at `MIC Armenia` and grabbed my chance on `BetConstruct` internship. As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful for my future work.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-<table>
-<tr><th>Personal</th><th>Information</th></tr>
+<table border="0">
+<tr><th colspan="2">Personal Information</th></tr>
 <tr><td>Name</td><td>Aram Zhamkochyan</td></tr>
 <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/aram-zhamkochyan-b26601137">LinkedIn profile</a></td></tr>
 <tr><td>GitHub</td><td><a href="https://github.com/aramzham">My GitHub page</a></td></tr>
 <tr><td>CodeFights</td><td><a href="https://github.com/aramzham">My CodeFights profile</a></td></tr>
 </table>
-_Personal_ | _Information_
------------|------------
-First name | Aram
-Last name| Zhamkochyan
-LinkedIn | [Aram Zhamkochyan](https://www.linkedin.com/in/aram-zhamkochyan-b26601137)
-GitHub | [My GitHub page](https://github.com/aramzham)
-CodeFights | [My CodeFights profile](https://codefights.com/profile/kacap1707)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
 * Languages: *C# 6.0 (basic knowledge of Visual Basic)*
