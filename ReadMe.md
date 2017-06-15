@@ -18,11 +18,11 @@ Over past several years my career has evolved from Call Center operator to POS-T
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
-* Languages: *C# 6.0 (basic knowledge of Visual Basic)*
-* Libraries and Frameworks: *.NET Framework 4.6, Object Oriented Programming, LINQ, WPF, Windows Forms*
+* Languages: *C# 6.0*
+* Libraries and Frameworks: *.NET Framework 4.6, Object Oriented Programming, LINQ, WPF, Windows Forms, WCF, Web Api*
 * Databases: *T-SQL, Entity Framework, ADO.net*
-* Systems: *Windows 7 & 8*
-* VSC: *Git, GitHub*
+* Web tecniques: *HTML, CSS (basic knowledge)*
+* VSC: *GitHub*
 * IDE: *Visual Studio 2015*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
