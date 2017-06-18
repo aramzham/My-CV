@@ -13,7 +13,7 @@ Over past several years my career has evolved from Call Center operator to POS-T
 <tr><td>Name</td><td>Aram Zhamkochyan</td></tr>
 <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/aram-zhamkochyan-b26601137">LinkedIn profile</a></td></tr>
 <tr><td>GitHub</td><td><a href="https://github.com/aramzham">My GitHub page</a></td></tr>
-<tr><td>CodeFights</td><td><a href="https://github.com/aramzham">My CodeFights profile</a></td></tr>
+<tr><td>CodeFights</td><td><a href="https://codefights.com/profile/kacap1707">My CodeFights profile</a></td></tr>
 </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
