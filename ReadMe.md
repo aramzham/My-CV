@@ -23,7 +23,7 @@ Over past several years my career has evolved from Call Center operator to POS-T
 * Databases: *T-SQL, Entity Framework, ADO.net*
 * Web tecniques: *HTML, CSS (basic knowledge)*
 * VSC: *GitHub*
-* IDE: *Visual Studio 2015*
+* IDE: *Visual Studio 2015, 2017*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Trainings
