@@ -18,10 +18,10 @@ Over past several years my career has evolved from Call Center operator to C# de
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
-* Languages: *C# 6.0*
+* Languages: *C# 6.0*, *Python 3 (basics)*
 * Libraries and Frameworks: *.NET Framework 4.6, Object Oriented Programming, LINQ, WPF, Windows Forms, WCF, Web Api*
 * Databases: *T-SQL, Entity Framework, ADO.net*
-* Web tecniques: *HTML, CSS (basic knowledge)*
+* Web tecniques: *HTML, CSS (basics)*
 * VSC: *GitHub*
 * IDE: *Visual Studio 2015, 2017*
 
