@@ -9,7 +9,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 <h3>Personal Information</h3>
-<ul>
+<ul type="circle">
   <li><a href="https://www.linkedin.com/in/aram-zhamkochyan-b26601137">LinkedIn</a></li>
   <li><a href="https://github.com/aramzham">GitHub</a></li>
   <li><a href="https://codefights.com/profile/kacap1707">CodeFights</a></li>
