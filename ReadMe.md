@@ -8,13 +8,13 @@
 Over past several years my career has evolved from Call Center operator to C# developer. I got acquainted with IT technologies and with programming in `Microsoft Armenia`. After finishing the internship, at present I'm a C# back-end developer at BetConstruct. As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful in my future projects.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-<table border="0" align="center">
-<tr><th colspan="2">Personal Information</th></tr>
-<tr><td>Name</td><td>Aram Zhamkochyan</td></tr>
-<tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/aram-zhamkochyan-b26601137">LinkedIn profile</a></td></tr>
-<tr><td>GitHub</td><td><a href="https://github.com/aramzham">My GitHub page</a></td></tr>
-<tr><td>CodeFights</td><td><a href="https://codefights.com/profile/kacap1707">My CodeFights profile</a></td></tr>
-</table>
+<h3>Personal Information</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/aram-zhamkochyan-b26601137">LinkedIn</a></li>
+  <li><a href="https://github.com/aramzham">GitHub</a></li>
+  <li><a href="https://codefights.com/profile/kacap1707">CodeFights</a></li>
+  <li><a href="https://www.sololearn.com/Profile/1992269">SoloLearn</a></li>
+</ul>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
