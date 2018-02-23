@@ -27,7 +27,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Work Experience
-> 07.2017 - present  ->    **Junior C# developer** at BetConstruct
+> 07.2017 - present  ->    **.Net software engineer** at BetConstruct
 
 > 12.2012 – 06.2014  ->    **POS-terminal service division specialist** at «Unibank» CJSC
 
