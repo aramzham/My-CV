@@ -5,7 +5,7 @@
 <hr width="100%" size="10" color="blue"/>
 
 ## Summary
-Over past several years my career has evolved from Call Center operator to C# developer. I got acquainted with IT technologies and with programming in `Microsoft Armenia`. After finishing the internship, at present I'm a C# back-end developer at BetConstruct. As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful in my future projects.
+Over past several years my career has evolved from Call Center operator to C# developer. I got acquainted with IT technologies and with programming in `Microsoft Armenia`. After finishing the internship, at present I'm a .Net software engineer at BetConstruct. As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful in my future projects.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 <h3>Personal Information</h3>
