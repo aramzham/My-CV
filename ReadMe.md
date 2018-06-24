@@ -10,7 +10,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 ---------------------------------------------------------------------------------------------------------------------------------------
 <h3>Personal Information</h3>
 <ul type="circle">
-  <li><a href="https://www.linkedin.com/in/aram-zhamkochyan-b26601137">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/aram-zhamkochyan/">LinkedIn</a></li>
   <li><a href="https://github.com/aramzham">GitHub</a></li>
   <li><a href="https://codefights.com/profile/kacap1707">CodeFights</a></li>
   <li><a href="https://www.sololearn.com/Profile/1992269">SoloLearn</a></li>
@@ -19,7 +19,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
 * Languages: *C# 6.0*, *basics of Python 3, JavaScript*
-* Libraries and Frameworks: *.NET Framework 4.6, Object Oriented Programming, LINQ, WPF, Windows Forms, WCF, Web Api*
+* Libraries and Frameworks: *.NET Framework 4.6, .NET Core 2.0, OOP, ASP.NET MVC, ASP.NET Web Api, LINQ, WPF, Windows Forms, WCF*
 * Databases: *T-SQL, Entity Framework, ADO.net*
 * Web tecniques: *HTML, CSS (basics)*
 * VSC: *GitHub*
