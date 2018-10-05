@@ -23,7 +23,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 * Databases: *T-SQL, Entity Framework, Ado.NET*
 * Web tecniques: *HTML, CSS, Bootstrap (basics)*
 * VSC: *GitHub*
-* IDE: *Visual Studio 2015, 2017*
+* IDE: *Visual Studio 2017*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Work Experience
