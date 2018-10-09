@@ -22,7 +22,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 * Libraries and Frameworks: *.NET Framework 4.6, .NET Core 2.0, OOP, Asp.NET MVC, Asp.NET Web Api, LINQ, WPF, Windows Forms, WCF*
 * Databases: *T-SQL, Entity Framework, Ado.NET*
 * Web tecniques: *HTML, CSS, Bootstrap (basics)*
-* VSC: *GitHub*
+* VSC: *GitHub*, *TFS*
 * IDE: *Visual Studio 2017*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
