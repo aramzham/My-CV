@@ -59,7 +59,7 @@ _Period_ | _Institution_
 ----------|-------
 Armenian|Mother language
 Russian|Fluent
-English|Good (TOEIC – 890/990)
+English|Good
 French|Good (B2)
 
 ## Programming knowledge literature source
