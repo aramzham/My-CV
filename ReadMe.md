@@ -63,7 +63,7 @@ English|Good
 French|Good (B2)
 
 ## Programming knowledge literature source
-`msdn.microsoft.com`, `stackoverflow.com`, `Andrew Troelsen, Philip Japikse - C# 6.0 and the .NET 4.6 Framework (7th Edition) - 2015`, `Syncfusion Succinctly series`, `Head First Series`, `ITVDN.com`,  `pluralsight.com`, `edx.org`, `metanit.com`
+`msdn.microsoft.com`, `stackoverflow.com`, `CLR via C# (4th Edition) (Developer Reference) by Jeffrey Richter`, `Andrew Troelsen, Philip Japikse - C# 6.0 and the .NET 4.6 Framework (7th Edition) - 2015`, `Syncfusion Succinctly series`, `Head First Series`, `ITVDN.com`,  `pluralsight.com`, `edx.org`, `metanit.com`
 
 ## [View my résumé](https://github.com/aramzham/My-CV/blob/master/Aram%20CV%20in%20english%20090418.pdf)
 <html>
