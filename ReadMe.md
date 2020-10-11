@@ -23,7 +23,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 * Databases: *T-SQL, Entity Framework, Ado.NET*
 * Web: *basics of HTML, CSS, Bootstrap*
 * VSC: *GitHub*, *TFS*
-* IDE: *Visual Studio*, *SQL Server Management Studio*
+* IDE: *Visual Studio*, *SQL Server Management Studio*, *Rider*, *DataGrip*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Work Experience
@@ -61,6 +61,7 @@ Armenian|Mother language
 Russian|Fluent
 English|Good
 French|Good (B2)
+Spanish|Good (B1)
 
 ## Programming knowledge literature source
 `msdn.microsoft.com`, `stackoverflow.com`, `CLR via C# (4th Edition) (Developer Reference) by Jeffrey Richter`, `Andrew Troelsen, Philip Japikse - C# 6.0 and the .NET 4.6 Framework (7th Edition) - 2015`, `Syncfusion Succinctly series`, `Head First Series`, `ITVDN.com`,  `pluralsight.com`, `edx.org`, `metanit.com`
