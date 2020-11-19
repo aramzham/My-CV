@@ -70,8 +70,3 @@ Spanish|Good (B1)
 <html>
 <h2><a href = "https://github.com/aramzham/My-CV/files/2630047/Aram.CV.in.english.090418.pdf">Download my résumé in PDF</a></h2>
 </html>
-
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[codesignal]: https://codefights.com/profile/kacap1707
-[linkedin]: https://www.linkedin.com/in/aram-zhamkochyan
