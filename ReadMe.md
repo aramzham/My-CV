@@ -8,18 +8,18 @@
 Over past several years my career has evolved from Call Center operator to C# developer. I got acquainted with IT technologies and with programming in `Microsoft Armenia`. After finishing the internship, at present I'm employed at BetConstruct as a .Net software engineer. As an active team player, I'm always open to learn and to share knowledge. I hope that my sense of responsibility, hardworking and my ability to find solutions to different situations will be useful in my future projects.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+
 <h3>Personal Information</h3>
-<ul type="circle">
-  <li><a href="https://www.linkedin.com/in/aram-zhamkochyan/">LinkedIn</a></li>
-  <li><a href="https://github.com/aramzham">GitHub</a></li>
-  <li><a href="https://codefights.com/profile/kacap1707">CodeFights</a></li>
-  <li><a href="https://www.sololearn.com/Profile/1992269">SoloLearn</a></li>
-</ul>
+
+<a href="https://www.linkedin.com/in/aram-zhamkochyan/"><img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&emsp;</a>
+<a href="https://codefights.com/profile/kacap1707"><img alt="CodeSignal" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/codefights-logo-svg-vector.svg" />&emsp;</a>
+<a align="left" href="https://github.com/aramzham"><img alt="Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />&emsp;</a>
+<a align="left" href="https://www.sololearn.com/Profile/1992269"><img alt="SoloLearn" width="202px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/SoloLearn_logo.svg" /></a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
 * Languages: *C#*, *basics of Python 3, JavaScript*
-* Libraries and Frameworks: *.NET Framework 4.6, .NET Core 2.0, OOP, Asp.NET MVC, Asp.NET Web Api, LINQ, WPF, Windows Forms, WCF*
+* Libraries and Frameworks: *.NET Framework 4.7, .NET Core 3.1, Asp.NET MVC, Asp.NET Web Api, LINQ, WPF, NT Services*
 * Databases: *T-SQL, Entity Framework, Ado.NET*
 * Web: *basics of HTML, CSS, Bootstrap*
 * VSC: *GitHub*, *TFS*
@@ -70,3 +70,8 @@ Spanish|Good (B1)
 <html>
 <h2><a href = "https://github.com/aramzham/My-CV/files/2630047/Aram.CV.in.english.090418.pdf">Download my résumé in PDF</a></h2>
 </html>
+
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[codesignal]: https://codefights.com/profile/kacap1707
+[linkedin]: https://www.linkedin.com/in/aram-zhamkochyan
