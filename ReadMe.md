@@ -18,12 +18,12 @@ Over past several years my career has evolved from Call Center operator to C# de
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
-* Languages: *C#*, *basics of Python 3, JavaScript*
-* Libraries and Frameworks: *.NET Framework 4.7, .NET Core 3.1, Asp.NET MVC, Asp.NET Web Api, LINQ, WPF, NT Services*
+* Languages: *C#* <img width="45px" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>, *basics of Python <img width="65px" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>, JavaScript <img width="85px" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>*
+* Libraries and Frameworks: *.NET Framework 4.7 <img width="65px" src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=whitek"/>, .NET Core 3.1, Asp.NET MVC, Asp.NET Web Api, LINQ, WPF, NT Services*
 * Databases: *T-SQL, Entity Framework, Ado.NET*
-* Web: *basics of HTML, CSS, Bootstrap*
-* VSC: *GitHub*, *TFS*
-* IDE: *Visual Studio*, *SQL Server Management Studio*, *Rider*, *DataGrip*
+* Web: *basics of HTML <img width="50px" src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"/>, CSS <img width="45px" src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white"/>, Bootstrap <img width="80px" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>*
+* VSC: *GitHub* <img width="60px" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>, *TFS*
+* IDE: *Visual Studio* <img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>, *SQL Server Management Studio*, *Rider*, *DataGrip*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Work Experience
