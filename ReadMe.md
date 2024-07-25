@@ -27,7 +27,7 @@ Over past several years my career has evolved from Call Center operator to C# de
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Work Experience
-> 09.2022 - present  ->    **.Net software engineer** at International Atomic Energy Agency (IAEA)
+> 09.2022 - 05.2024  ->    **.Net software engineer** at International Atomic Energy Agency (IAEA)
 
 > 03.2021 - 09.2022  ->    **.Net software engineer** at DataArt
 
