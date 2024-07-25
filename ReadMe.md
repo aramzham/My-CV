@@ -70,7 +70,7 @@ Spanish|Beginner (A2)
 ## Programming knowledge literature source
 `msdn.microsoft.com`, `stackoverflow.com`, `CLR via C# (4th Edition) (Developer Reference) by Jeffrey Richter`, `Andrew Troelsen, Philip Japikse - C# 6.0 and the .NET 4.6 Framework (7th Edition) - 2015`, `Syncfusion Succinctly series`, `Head First Series`, `ITVDN.com`,  `pluralsight.com`, `edx.org`, `metanit.com`
 
-## [View my résumé](https://github.com/user-attachments/files/16382781/cv.pdf)
+## [View my résumé](https://github.com/aramzham/My-CV/blob/master/cv.pdf)
 <html>
 <h2><a href = "https://github.com/user-attachments/files/16382781/cv.pdf">Download my résumé in PDF</a></h2>
 </html>
