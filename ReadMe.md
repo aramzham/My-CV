@@ -27,6 +27,10 @@ Over past several years my career has evolved from Call Center operator to C# de
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Work Experience
+> 02.2026 - present  ->    **.Net software engineer** at Freedx
+
+> 11.2024 - 12.2025  ->    **.Net software engineer** at Finnovation
+
 > 09.2022 - 05.2024  ->    **.Net software engineer** at International Atomic Energy Agency (IAEA)
 
 > 03.2021 - 09.2022  ->    **.Net software engineer** at DataArt
